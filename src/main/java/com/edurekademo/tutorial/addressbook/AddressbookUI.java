@@ -47,7 +47,7 @@ public class AddressbookUI extends UI {
     // a real-world datasource. Typically implemented for
     // example as EJB or Spring Data based service.
     ContactService service = ContactService.createDemoService();
-
+ // this is for testing
     /*
      * The "Main method".
      *
